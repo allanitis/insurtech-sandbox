@@ -4,5 +4,5 @@ The InsurTech Sandbox is an Open API standard defining how InsurTech standards c
 
 ## Demo the Sandbox
 
-__include link__
+View the [demo](https://insurtech-sandbox.herokuapp.com/#/)
 
